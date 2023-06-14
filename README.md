@@ -66,6 +66,10 @@
 <br>
 
  
+## Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Gaurav-Jaiswal-2&color=blueviolet&style=flat&label=Profile+Views&v=1200)
+
+
  
  
 
@@ -78,9 +82,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Jaiswal-2&show_icons=true&count_private=true&theme=dark" alt="GitHub stats" width="400" height="200" />
 </div>
 
+## Contributions
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Jaiswal-2&theme=dark)
 
-
-
-
-
+## Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gaurav-Jaiswal-2&theme=darkhub)
 
