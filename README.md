@@ -40,6 +40,9 @@
 <a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Servlets&color=700030&label=" alt=""/></a>
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/)
  [![Mockito](https://img.shields.io/badge/Mockito-EBAC54?style=for-the-badge&logo=mockito&logoColor=white)](https://site.mockito.org/)
+ [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/)
+[![Logstash](https://img.shields.io/badge/Logstash-FFA500?style=for-the-badge&logo=logstash&logoColor=black)](https://www.elastic.co/logstash/)
+[![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)](https://www.elastic.co/kibana/)
 
 ### <h2><i>💻 Databases</i></h2>
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
