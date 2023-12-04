@@ -49,7 +49,11 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
- 
+ ### <h2><i>🏆 Certificates</i></h2>
+ - [![HackerRank SQL Certificate](https://img.shields.io/badge/HackerRank-SQL-47A248?style=for-the-badge&logo=hackerrank)]([https://www.hackerrank.com/certificates/a636b56824f2](https://www.hackerrank.com/certificates/542b1dcc516c))
+- [![HackerRank JavaScript Certificate](https://img.shields.io/badge/HackerRank-JavaScript-47A248?style=for-the-badge&logo=hackerrank)]([https://www.hackerrank.com/certificates/542b1dcc516c](https://www.hackerrank.com/certificates/a636b56824f2))
+
+
  
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
