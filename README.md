@@ -85,11 +85,15 @@
 <!----------------------------------- Star Section ------------------------------------>
 
 ## GitHub Stats
-<div>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Jaiswal-2&layout=compact&theme=dark&langs_count=6&hide=html,css" alt="Language Usage" width="400" height="200" style="margin-left: 20px;" />
+<div style="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Jaiswal-2&layout=compact&theme=dark&langs_count=6&hide=html,css" alt="Language Usage" style="width: 48%; display: inline-block; margin-right: 2%;" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Jaiswal-2&show_icons=true&count_private=true&theme=dark" alt="GitHub stats" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Jaiswal-2&show_icons=true&count_private=true&theme=dark" alt="GitHub stats" style="width: 48%; display: inline-block;" />
 </div>
+
+
+
+
 
 ## Contributions
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Jaiswal-2&theme=dark)
