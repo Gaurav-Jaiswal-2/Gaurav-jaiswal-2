@@ -8,8 +8,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3 align="center">
-   <i> Java Backend Developer</i>
-    <i> A headstrong and inquisitive, aspiring Full Stack developer, highly skilled in engineering robust and scalable applications and web API designs using Java and SpringBoot. Effective remote collaborator with an immense passion for building good software, looking forward to a sparkling career as a Full Stack developer.</i>
+  🚀 Java Backend Developer with a knack for transforming ideas into powerful, scalable applications. Specializing in SpringBoot, I'm passionate about creating efficient web APIs and contributing to the entire software development lifecycle. As a Full Stack enthusiast, I thrive on continuous learning, ensuring that my skills align with the latest industry trends. A dedicated collaborator, I excel in remote work settings and look forward to making impactful contributions to innovative projects.
 </h3
   
 
