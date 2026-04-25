@@ -93,6 +93,9 @@ const gaurav = {
 <td>🏗️</td><td>Leading <b>Fintech platform development</b> at <b>AlphawareNext Tech</b> — mutual funds, loan management, government welfare schemes</td>
 </tr>
 <tr>
+<td>⚡</td><td>Building <b>Alpha-Node</b> — a self-hosted, AWS-EC2-style compute platform that turns office hardware into an internal cloud</td>
+</tr>
+<tr>
 <td>🌍</td><td>Freelance contributor to a <b>South African payment processing system</b> — transaction flows, reconciliation, payment rails</td>
 </tr>
 <tr>
@@ -298,18 +301,38 @@ Developed and maintained a **Spring Boot payment wallet** application. Persisten
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+#### ⚡ &nbsp; Alpha-Node &nbsp;<sub>· personal project</sub>
+<sub>A self-hosted, AWS-EC2-style compute platform for office hardware</sub>
+
+Built a distributed compute platform that turns ordinary office PCs into an internal replacement for cloud VMs. Customers pick an instance type from a web console, the master schedules a container onto the best-fit worker, and a browser terminal hooks straight into the running container over WebSocket — same UX as launching an EC2 box, running on hardware you already own.
+
+The interesting parts are the ones you don't see: a pull-model scheduler with capacity reservation, sub-15-second worker failover with automatic job re-queue and instance migration, a credit-ledger billing system that bills by the minute and auto-stops at zero balance, and optional mTLS on the worker↔master control plane.
+
+```yaml
+control plane:  Spring Boot 3 · Java 21 · Spring Cloud Gateway
+data plane:     Docker · WebSocket · Redis (task queue) · PostgreSQL
+edges:          React + Vite admin & customer consoles
+ops:            Prometheus · Grafana · NSIS one-click Windows installer
+why it matters: orchestration · scheduling · failover · billing — end to end
+```
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🏛️ &nbsp; Ladki Bahin Yojana
 <sub>Government of Maharashtra welfare scheme</sub>
 
-A digital backbone for a women's economic empowerment program — ingesting handwritten forms via **OCR**, validating KYC, and disbursing benefits.
+Digital backbone for a women's economic empowerment program — ingesting handwritten forms via **OCR**, validating KYC, and disbursing benefits.
 
 ```yaml
-features:    OCR · KYC validation
-             benefit disbursement
-stack:       Spring Boot · PostgreSQL
-             Redis · AWS · OCR
+features: OCR · KYC validation
+          benefit disbursement
+stack:    Spring Boot · PostgreSQL
+          Redis · AWS · OCR
 ```
 
 </td>
@@ -318,7 +341,7 @@ stack:       Spring Boot · PostgreSQL
 #### 💹 &nbsp; Wealth Info Line
 <sub>Mutual Fund / Fintech platform</sub>
 
-Web app for purchasing **Mutual Funds (BSE-listed AMCs)**, NPS, and FDs. Supports SIP, SWP, STP, and lump sum flows for clients and agents.
+Web app for purchasing **Mutual Funds (BSE-listed AMCs)**, NPS, and FDs. Supports SIP, SWP, STP, and lump-sum flows for clients and agents.
 
 ```yaml
 integrations: BSE · Digio · AMFI · RTA
@@ -338,10 +361,10 @@ stack:        Spring Boot · SOAP/REST
 End-to-end loan lifecycle service for NBFCs, credit societies, and banks — including TTMS Bank. Built with extensibility in mind.
 
 ```yaml
-features:    dynamic forms · workflows
-             pagination · audit trail
-stack:       Spring Boot · JPA · JPQL
-             AOP · Design Patterns
+features: dynamic forms · workflows
+          pagination · audit trail
+stack:    Spring Boot · JPA · JPQL
+          AOP · Design Patterns
 ```
 
 </td>
@@ -353,10 +376,10 @@ stack:       Spring Boot · JPA · JPQL
 Microservices platform for admissions, discharge, appointments, bed allotment, and billing. **WebSockets** stream live patient updates.
 
 ```yaml
-resilience:  Circuit Breaker · Retry
-             Rate Limit · Feign Client
-stack:       Spring Cloud · OWASP
-             API Gateway · WebSocket
+resilience: Circuit Breaker · Retry
+            Rate Limit · Feign Client
+stack:      Spring Cloud · OWASP
+            API Gateway · WebSocket
 ```
 
 </td>
