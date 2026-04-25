@@ -96,13 +96,16 @@ const gaurav = {
 <td>⚡</td><td>Building <b>Alpha-Node</b> — a self-hosted, AWS-EC2-style compute platform that turns office hardware into an internal cloud</td>
 </tr>
 <tr>
+<td>🛡️</td><td>Authored <b>Security-Starter</b> — a Spring Boot library that gives every microservice JWT auth, RBAC, JPA auditing, and AES-256 field encryption from <code>application.yml</code> alone</td>
+</tr>
+<tr>
 <td>🌍</td><td>Freelance contributor to a <b>South African payment processing system</b> — transaction flows, reconciliation, payment rails</td>
 </tr>
 <tr>
 <td>🤖</td><td>Open-source contributor at <a href="https://flowfirst.ai"><b>FlowFirst.ai</b></a> — backend services for AI-driven workflow automation</td>
 </tr>
 <tr>
-<td>🔭</td><td>Exploring <b>Uber Cadence</b> and event-driven patterns for durable, fault-tolerant workflow orchestration</td>
+<td>🔭</td><td>Exploring <b>Spring AI · LangChain4j · MCP</b> for LLM-integrated services, and <b>Uber Cadence</b> for durable workflows</td>
 </tr>
 </table>
 
@@ -181,7 +184,101 @@ const gaurav = {
 </tr>
 </table>
 
-<p align="center"><sub><i>also working with: Keycloak · JWT · Hazelcast · Logstash · Maven · Gradle · Postman · OWASP · HashiCorp Vault · Tomcat · Mockito · Uber Cadence</i></sub></p>
+<p align="center"><sub><i>also working with: Keycloak · JWT · Hazelcast · Logstash · Maven · Gradle · Postman · OWASP · Mockito</i></sub></p>
+
+#### What I reach for, by problem
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Async & event-driven**
+- Apache Kafka
+- Amazon SQS
+- Webhooks
+- WebSocket
+- SOAP integrations
+
+</td>
+<td valign="top" width="33%">
+
+**Workflow & orchestration**
+- Uber Cadence
+- Camunda BPM
+- Spring Cloud (Gateway, Eureka, Config)
+- API Gateway patterns
+
+</td>
+<td valign="top" width="33%">
+
+**Resilience & reliability**
+- Resilience4j (Circuit Breaker, Retry, Bulkhead, Rate Limiter, Timeouts)
+- Feign Client + fallbacks
+- JMeter for load testing
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Security & secrets**
+- Keycloak · Okta · JWT · OAuth2
+- Spring Security 6
+- HashiCorp Vault
+- AES-256 field encryption
+- OWASP
+
+</td>
+<td valign="top">
+
+**Observability**
+- Prometheus + Grafana
+- Elasticsearch · Logstash · Kibana
+- Graylog
+- SonarQube
+- Spring Boot Actuator
+
+</td>
+<td valign="top">
+
+**AI / LLM integration**
+- Spring AI
+- LangChain4j
+- Model Context Protocol (MCP)
+- FastAPI · Ollama / vLLM (Alpha-Node)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**CI/CD & repo mgmt**
+- Jenkins · GitHub Actions
+- Bitbucket · Gitea
+- Sonatype Nexus Repository
+- Jira · Confluence
+
+</td>
+<td valign="top">
+
+**Process automation**
+- UiPath · TagUI
+- RPA workflows
+- Document/data processing pipelines
+
+</td>
+<td valign="top">
+
+**Foundations**
+- Java · Core Java · OOP
+- DSA · Problem Solving
+- RDBMS · NoSQL · DBMS
+- REST APIs · Microservices
+- Agile
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -316,6 +413,26 @@ data plane:     Docker · WebSocket · Redis (task queue) · PostgreSQL
 edges:          React + Vite admin & customer consoles
 ops:            Prometheus · Grafana · NSIS one-click Windows installer
 why it matters: orchestration · scheduling · failover · billing — end to end
+```
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### 🛡️ &nbsp; Security-Starter &nbsp;<sub>· internal Spring Boot library</sub>
+<sub>A drop-in security foundation for microservice architectures</sub>
+
+Designed and shipped a production Spring Boot library that gives any microservice a complete security baseline through `application.yml` alone — no boilerplate, no separate auth server. JWT authentication, role-based authorization with policy files, JPA auditing wired to the JWT principal, centrally configured CORS, and AES-256 field-level encryption with hashed/encrypted/masked storage for sensitive data like PAN and Aadhaar.
+
+The non-obvious wins are architectural: the library runs on its own JPA persistence unit so its entities never collide with the consuming service's domain model, and a `BackdateHolder` thread-local lets historical migrations write past timestamps cleanly through the auditing layer. Rolled out across multiple Fintech microservices — security setup went from days to minutes.
+
+```yaml
+auth:           JWT · Spring Security 6 · policy-driven authz
+crypto:         AES-256 field-level · BCrypt · masked display values
+auditing:       JPA @CreatedBy / @LastModifiedBy via JwtAuditorAware
+isolation:      separate EntityManager + TransactionManager
+distribution:   GitHub Packages (Gradle / Maven)
 ```
 
 </td>
