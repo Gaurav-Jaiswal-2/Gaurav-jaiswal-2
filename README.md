@@ -1,102 +1,460 @@
-<!----------------------------------- Heading Section ------------------------------------>
-<h1 align="center">
-    Hi
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Gaurav...
-</h1>
+<!--
+  ─────────────────────────────────────────────────────────────────
+   gaurav-jaiswal-2 · github profile
+   raw urls used so animated SVGs render the moment you commit
+  ─────────────────────────────────────────────────────────────────
+-->
 
-<!----------------------------------- About Section ------------------------------------>
+<a href="https://github.com/Gaurav-Jaiswal-2">
+  <img src="https://raw.githubusercontent.com/Gaurav-Jaiswal-2/Gaurav-Jaiswal-2/main/assets/banner.svg" alt="Gaurav Jaiswal — Software Engineer" width="100%" />
+</a>
 
-<h3 align="center">
-  🚀 Java Backend Developer with a knack for transforming ideas into powerful, scalable applications. Specializing in SpringBoot, I'm passionate about creating efficient web APIs and contributing to the entire software development lifecycle. As a Full Stack enthusiast, I thrive on continuous learning, ensuring that my skills align with the latest industry trends. A dedicated collaborator, I excel in remote work settings and look forward to making impactful contributions to innovative projects.
-</h3
-  
-
-<br>
-  
-<!----------------------------------- Tech Stack Section ------------------------------------>
-
-
-### <h2><i>👨🏻‍💻 Tech Stack & Languages</i></h2>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
- <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-<img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-
-
-### <h2><i>🚀 Libraries & Frameworks</i></h2>
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=852100&label=" alt=""/></a>
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&color=00d09c&label=" alt="" /></a>
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=000030&label=" alt=""/></a>
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&color=400030&label=" alt=""/></a>
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Servlets&color=700030&label=" alt=""/></a>
-[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/)
- [![Mockito](https://img.shields.io/badge/Mockito-EBAC54?style=for-the-badge&logo=mockito&logoColor=white)](https://site.mockito.org/)
- [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/)
-[![Logstash](https://img.shields.io/badge/Logstash-FFA500?style=for-the-badge&logo=logstash&logoColor=black)](https://www.elastic.co/logstash/)
-[![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)](https://www.elastic.co/kibana/)
-
-### <h2><i>💻 Databases</i></h2>
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
- ### <h2><i>🏆 Certificates</i></h2>
-- [![HackerRank SQL Certificate](https://img.shields.io/badge/HackerRank-SQL-47A248?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/542b1dcc516c)
-- [![HackerRank JavaScript Certificate](https://img.shields.io/badge/HackerRank-JavaScript-47A248?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/a636b56824f2)
-
-
-
- 
-<!----------------------------------- Social Media Links Section ------------------------------------>
-
-<h2><i>Let's Connect</i></h2>
-
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/aryan22/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/aryan22" />
-    </a>
-    <a href="https://gaurav-jaiswal-portfolio.netlify.app">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://gaurav-jaiswal-portfolio.netlify.app" />
-    </a>
-    <a title="aryanjaiswal598@gmail.com" href="mailto:aryanjaiswal598@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aryanjaiswal5928@gmail.com" />
-    </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryan22/"><img src="https://img.shields.io/badge/LinkedIn-_-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+  &nbsp;
+  <a href="mailto:gauravjaiswal5928@gmail.com"><img src="https://img.shields.io/badge/Email-_-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+  &nbsp;
+  <a href="https://gaurav-jaiswal-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-_-00C7B7?style=flat-square&logo=netlify&logoColor=white&labelColor=0d1117" /></a>
+  &nbsp;
+  <a href="https://leetcode.com/u/G-GAURAV/"><img src="https://img.shields.io/badge/LeetCode-_-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=0d1117" /></a>
+  &nbsp;
+  <a href="https://flowfirst.ai"><img src="https://img.shields.io/badge/FlowFirst.ai-_-7C3AED?style=flat-square&logo=zapier&logoColor=white&labelColor=0d1117" /></a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gaurav-Jaiswal-2&style=flat-square&color=58a6ff&label=PROFILE+VIEWS&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/Gaurav-Jaiswal-2?style=flat-square&color=58a6ff&logo=github&label=FOLLOWERS&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20opportunities-22c55e?style=flat-square&labelColor=0d1117" />
+</p>
+
+<!-- Animated typing line that ALWAYS works -->
+<p align="center">
+  <a href="https://github.com/Gaurav-Jaiswal-2">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=720&lines=Software+Engineer+%E2%80%A2+Backend+Specialist;Building+distributed+systems+at+scale;Spring+Boot+%E2%80%A2+Microservices+%E2%80%A2+Cloud+Native;Fintech+%E2%80%A2+Payments+%E2%80%A2+High+Throughput+APIs;Open+source+contributor+%40+FlowFirst.ai" alt="Typing animation" />
+  </a>
+</p>
+
 <br>
 
- 
-## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Gaurav-Jaiswal-2&color=blueviolet&style=flat&label=Profile+Views&v=1200)
+<!-- ────────────────────────────────────────────────────────────── -->
+<!--                          ABOUT                                  -->
+<!-- ────────────────────────────────────────────────────────────── -->
 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> &nbsp; About Me
 
- 
- 
+<table>
+<tr>
+<td valign="top" width="58%">
 
-<!----------------------------------- Star Section ------------------------------------>
+```diff
+@ gaurav-jaiswal-2  ~/about
+─────────────────────────────────────────
++ software engineer · backend · jvm
++ building distributed systems in fintech
++ payments · kyc · workflow orchestration
+─────────────────────────────────────────
+```
 
-## GitHub Stats
-<div style="display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Jaiswal-2&layout=compact&theme=dark&langs_count=6&hide=html,css" alt="Language Usage" style="width: 48%; display: inline-block; margin-right: 2%;" />
+I'm a backend engineer who likes the part of the job where requirements are
+ambiguous and the system has to behave anyway. Most of my work is in **Java
+and Spring Boot**, building **microservices for financial systems** —
+mutual fund transactions, loan origination, KYC, payment rails.
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Jaiswal-2&show_icons=true&count_private=true&theme=dark" alt="GitHub stats" style="width: 48%; display: inline-block;" />
+The interesting problems for me are usually about **correctness under load**:
+idempotency, retries, eventual consistency, the gap between 99.9% and 99.99%.
+Lately I've been pulling on that thread with **Uber Cadence** for durable
+workflows and event-driven patterns.
+
+</td>
+<td valign="top" width="42%">
+
+```ts
+const gaurav = {
+  role:     "Software Engineer",
+  focus:    ["Backend", "Distributed
+              Systems", "Fintech"],
+  stack:    "Java · Spring Boot · K8s",
+
+  building: "Fintech @ AlphawareNext",
+  shipping: "Payments @ South Africa",
+  open_src: "FlowFirst.ai",
+  reading:  "DDIA · System Design",
+
+  status:   "🟢 Open to roles",
+};
+```
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>🏗️</td><td>Leading <b>Fintech platform development</b> at <b>AlphawareNext Tech</b> — mutual funds, loan management, government welfare schemes</td>
+</tr>
+<tr>
+<td>🌍</td><td>Freelance contributor to a <b>South African payment processing system</b> — transaction flows, reconciliation, payment rails</td>
+</tr>
+<tr>
+<td>🤖</td><td>Open-source contributor at <a href="https://flowfirst.ai"><b>FlowFirst.ai</b></a> — backend services for AI-driven workflow automation</td>
+</tr>
+<tr>
+<td>🔭</td><td>Exploring <b>Uber Cadence</b> and event-driven patterns for durable, fault-tolerant workflow orchestration</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ────────────────────────────────────────────────────────────── -->
+<!--                       ARCHITECTURE                              -->
+<!-- ────────────────────────────────────────────────────────────── -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> &nbsp; Systems I Build
+
+<a href="https://github.com/Gaurav-Jaiswal-2">
+  <img src="https://raw.githubusercontent.com/Gaurav-Jaiswal-2/Gaurav-Jaiswal-2/main/assets/architecture.svg" alt="Architecture I work with — animated request flow diagram" width="100%" />
+</a>
+
+<br>
+
+<!-- ────────────────────────────────────────────────────────────── -->
+<!--                         TECH STACK                              -->
+<!-- ────────────────────────────────────────────────────────────── -->
+
+## ⚙ &nbsp; Stack
+
+<table>
+<tr>
+  <td valign="top" width="20%">
+    <p align="center"><b><sub>LANGUAGES</sub></b></p>
+    <p align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+    </p>
+  </td>
+  <td valign="top" width="20%">
+    <p align="center"><b><sub>FRAMEWORKS</sub></b></p>
+    <p align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40" title="Hibernate" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40" title="JUnit" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+    </p>
+  </td>
+  <td valign="top" width="20%">
+    <p align="center"><b><sub>DATA</sub></b></p>
+    <p align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40" title="Elasticsearch" />
+    </p>
+  </td>
+  <td valign="top" width="20%">
+    <p align="center"><b><sub>CLOUD &amp; DEVOPS</sub></b></p>
+    <p align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" title="AWS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" title="Jenkins" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
+    </p>
+  </td>
+  <td valign="top" width="20%">
+    <p align="center"><b><sub>OBSERVABILITY</sub></b></p>
+    <p align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" title="Grafana" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" title="Prometheus" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="40" title="Kibana" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="40" title="SonarQube" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+    </p>
+  </td>
+</tr>
+</table>
+
+<p align="center"><sub><i>also working with: Keycloak · JWT · Hazelcast · Logstash · Maven · Gradle · Postman · OWASP · HashiCorp Vault · Tomcat · Mockito · Uber Cadence</i></sub></p>
+
+<br>
+
+<!-- ────────────────────────────────────────────────────────────── -->
+<!--                       EXPERIENCE                                -->
+<!-- ────────────────────────────────────────────────────────────── -->
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" /> &nbsp; Experience
+
+<table>
+<tr>
+<td width="30%" valign="top">
+
+`MAR 2024 — NOW`
+**Team Lead**
+AlphawareNext Tech
+Mumbai, IN
+
+</td>
+<td valign="top">
+
+Leading the team building Fintech platforms from the ground up — mutual funds, loan management, and a state-government welfare scheme.
+
+- Architected microservices for **auth (Keycloak)** and **communication (SMTP + Tata Tele SMS)**
+- Designed a **Document Master service** on AWS S3 to centralize file storage across projects
+- Published an internal **WSDL → Java** package on Sonatype Nexus and GitHub Packages
+- Lead code reviews, technical design discussions, and mentor team members on clean architecture
+- Provide on-site production support and own end-to-end delivery of platform features
+
+</td>
+</tr>
+
+<tr><td colspan="2"><sub>──────────────────────────────────────────────────────────────────────────────────────────</sub></td></tr>
+
+<tr>
+<td width="30%" valign="top">
+
+`CONTRACT`
+**Freelance Engineer**
+South Africa Payments
+Remote
+
+</td>
+<td valign="top">
+
+Contributed to a **South African payment processing system** as a freelance engineer — transaction flows, reconciliation logic, and integration with regional payment rails. Delivered remotely across time zones.
+
+</td>
+</tr>
+
+<tr><td colspan="2"><sub>──────────────────────────────────────────────────────────────────────────────────────────</sub></td></tr>
+
+<tr>
+<td width="30%" valign="top">
+
+**Open Source Contributor**
+[FlowFirst.ai](https://flowfirst.ai)
+Distributed
+
+</td>
+<td valign="top">
+
+Active contributor to **FlowFirst.ai**, an AI-driven workflow automation platform. Working on backend services and integrations that power agentic workflows alongside engineers and AI researchers.
+
+</td>
+</tr>
+
+<tr><td colspan="2"><sub>──────────────────────────────────────────────────────────────────────────────────────────</sub></td></tr>
+
+<tr>
+<td width="30%" valign="top">
+
+`FEB 2023 — FEB 2024`
+**Associate Software Engineer**
+Yosa Technology Solutions
+Surat, IN
+
+</td>
+<td valign="top">
+
+Designed & shipped **5+ microservices** with **200+ REST APIs** end-to-end.
+
+- Built a **Spring Cloud Config Server** for centralized config management
+- Authored a **core Java library** (hosted on JetBrains) that eliminated redundant CRUD across services
+- Implemented authentication, **API Gateway**, and **Eureka Service Discovery**
+- Optimized DB performance with custom functions and views
+
+</td>
+</tr>
+
+<tr><td colspan="2"><sub>──────────────────────────────────────────────────────────────────────────────────────────</sub></td></tr>
+
+<tr>
+<td width="30%" valign="top">
+
+`JAN 2022 — JAN 2023`
+**Software Intern**
+Masai School
+Bengaluru, IN
+
+</td>
+<td valign="top">
+
+Developed and maintained a **Spring Boot payment wallet** application. Persistence with Hibernate & JDBC; UI with HTML, CSS, and vanilla JS.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ────────────────────────────────────────────────────────────── -->
+<!--                        PROJECTS                                 -->
+<!-- ────────────────────────────────────────────────────────────── -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" /> &nbsp; Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏛️ &nbsp; Ladki Bahin Yojana
+<sub>Government of Maharashtra welfare scheme</sub>
+
+A digital backbone for a women's economic empowerment program — ingesting handwritten forms via **OCR**, validating KYC, and disbursing benefits.
+
+```yaml
+features:    OCR · KYC validation
+             benefit disbursement
+stack:       Spring Boot · PostgreSQL
+             Redis · AWS · OCR
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### 💹 &nbsp; Wealth Info Line
+<sub>Mutual Fund / Fintech platform</sub>
+
+Web app for purchasing **Mutual Funds (BSE-listed AMCs)**, NPS, and FDs. Supports SIP, SWP, STP, and lump sum flows for clients and agents.
+
+```yaml
+integrations: BSE · Digio · AMFI · RTA
+              Tata Tele · Extranet
+stack:        Spring Boot · SOAP/REST
+              PostgreSQL · Keycloak
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏦 &nbsp; Loan Management System
+<sub>NBFC / Bank loan origination & disbursement</sub>
+
+End-to-end loan lifecycle service for NBFCs, credit societies, and banks — including TTMS Bank. Built with extensibility in mind.
+
+```yaml
+features:    dynamic forms · workflows
+             pagination · audit trail
+stack:       Spring Boot · JPA · JPQL
+             AOP · Design Patterns
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏥 &nbsp; Medical Service Management
+<sub>Hospital management system</sub>
+
+Microservices platform for admissions, discharge, appointments, bed allotment, and billing. **WebSockets** stream live patient updates.
+
+```yaml
+resilience:  Circuit Breaker · Retry
+             Rate Limit · Feign Client
+stack:       Spring Cloud · OWASP
+             API Gateway · WebSocket
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ────────────────────────────────────────────────────────────── -->
+<!--                          STATS                                  -->
+<!-- ────────────────────────────────────────────────────────────── -->
+
+## <img src="https://media.giphy.com/media/SATM5Q1Ho1DoY/giphy.gif" width="28" /> &nbsp; GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/Gaurav-Jaiswal-2">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gaurav-Jaiswal-2&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Jaiswal-2&layout=compact&langs_count=8&hide=html,css&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Gaurav-Jaiswal-2">
+  <img src="https://streak-stats.demolab.com?user=Gaurav-Jaiswal-2&theme=github-dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Gaurav-Jaiswal-2">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav-Jaiswal-2&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=22c55e&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Gaurav-Jaiswal-2">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gaurav-Jaiswal-2&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
+</a>
+
 </div>
 
+<br>
 
+<!-- ────────────────────────────────────────────────────────────── -->
+<!--                      CERTIFICATIONS                             -->
+<!-- ────────────────────────────────────────────────────────────── -->
 
+## <img src="https://media.giphy.com/media/g5R9dok94mrIvplmZd/giphy.gif" width="28" /> &nbsp; Certifications
 
+[![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL_(Advanced)-00EA64?style=flat-square&logo=hackerrank&logoColor=white&labelColor=0d1117)](https://www.hackerrank.com/certificates/542b1dcc516c)
+[![HackerRank JavaScript](https://img.shields.io/badge/HackerRank-JavaScript_(Intermediate)-00EA64?style=flat-square&logo=hackerrank&logoColor=white&labelColor=0d1117)](https://www.hackerrank.com/certificates/a636b56824f2)
 
-## Contributions
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Jaiswal-2&theme=dark)
+<br>
 
-## Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gaurav-Jaiswal-2&theme=darkhub)
+<!-- ────────────────────────────────────────────────────────────── -->
+<!--                          CONTACT                                -->
+<!-- ────────────────────────────────────────────────────────────── -->
 
+<table>
+<tr>
+<td valign="middle" width="60%">
+
+### 📬 &nbsp; Let's build something
+
+If you're hiring for **backend** or **full-stack** roles, or want to talk distributed systems, fintech, or scaling payment infrastructure — my inbox is open.
+
+```bash
+$ ssh gaurav@inbox
+> Welcome. What are we building?
+```
+
+</td>
+<td valign="middle" width="40%" align="center">
+
+<a href="mailto:gauravjaiswal5928@gmail.com">
+  <img src="https://img.shields.io/badge/✉_Email_me-D14836?style=for-the-badge&logoColor=white" />
+</a>
+<br><br>
+<a href="https://www.linkedin.com/in/aryan22/">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white" />
+</a>
+<br><br>
+<a href="https://gaurav-jaiswal-portfolio.netlify.app">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-00C7B7?style=for-the-badge&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <sub>
+    <code>~/gaurav-jaiswal $ </code><i>"First, solve the problem. Then, write the code." — John Johnson</i>
+  </sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:0d1117,100:000000&height=80&section=footer&reversal=true" width="100%" />
+</p>
