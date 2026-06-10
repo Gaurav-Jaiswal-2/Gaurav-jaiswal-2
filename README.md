@@ -93,7 +93,7 @@ const gaurav = {
 <td>🏗️</td><td>Leading <b>Fintech platform development</b> at <b>AlphawareNext Tech</b> — mutual funds, loan management, government welfare schemes</td>
 </tr>
 <tr>
-<td>⚡</td><td>Building <b>Cloudex</b> — a self-hosted, AWS-EC2-style compute platform that turns office hardware into an internal cloud</td>
+<td>⚡</td><td>Building <b>Cloudex</b> — a self-hosted, cloud compute platform that turns office hardware into an internal cloud and data center</td>
 </tr>
 <tr>
 <td>🛡️</td><td>Authored <b>Security-Starter</b> — a Spring Boot library that gives every microservice JWT auth, RBAC, JPA auditing, and AES-256 field encryption from <code>application.yml</code> alone</td>
