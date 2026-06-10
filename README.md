@@ -400,8 +400,8 @@ Developed and maintained a **Spring Boot payment wallet** application. Persisten
 <tr>
 <td colspan="2" valign="top">
 
-#### ⚡ &nbsp; Alpha-Node &nbsp;<sub>· personal project</sub>
-<sub>A self-hosted, AWS-EC2-style compute platform for office hardware</sub>
+#### ⚡ &nbsp; Cloudex &nbsp;<sub>· personal project</sub>
+<sub>A self-hosted, cloude compute platform for office hardware use as a data center.</sub>
 
 Built a distributed compute platform that turns ordinary office PCs into an internal replacement for cloud VMs. Customers pick an instance type from a web console, the master schedules a container onto the best-fit worker, and a browser terminal hooks straight into the running container over WebSocket — same UX as launching an EC2 box, running on hardware you already own.
 
